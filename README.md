@@ -13,6 +13,3 @@
 
 * Context api
 * Js Cookies
-
-## Link:
-https://joao-carmassi.github.io/portifolio/
